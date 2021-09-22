@@ -60,3 +60,14 @@ a:link {
 #redColor {
     color: red;
 }
+
+textBox {
+  color: #F24040;
+  background: #FFFFFF;
+}
+
+square {
+  background: #097810;
+  width: 50px;
+  height: 50px;
+}
