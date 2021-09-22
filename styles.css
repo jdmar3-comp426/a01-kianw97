@@ -19,7 +19,7 @@ title_box {
 }
 
 .button {
-    background-color: #FFA500;
+    background: #F24040;
     color: #000000;
     text-align: center;
     display: inline-block;
@@ -27,9 +27,13 @@ title_box {
 }
 
 .button:hover {
-    background-color: #FF0000;
+    background: #FF0000;
     color: #FFFFFF;
     text-align: center;
     display: inline-block;
     font-size: 15px;
+}
+
+a:link {
+    color: black;
 }
