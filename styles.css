@@ -9,6 +9,17 @@ heading {
   font-size: 20px;
 }
 
+heading.main {
+  color: #0000FF;
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 10px;
+  border-color: #000000;
+  border-width: 5px;
+  border-style: solid;
+  font-size: 20px; 
+}
+
 title_box {
   color: #F24040;
   background: #964B00;
