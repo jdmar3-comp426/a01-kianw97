@@ -1,4 +1,4 @@
-heading {
+.heading {
   color: #F50000;
   margin-left: 20px;
   font-family: 'Times New Roman', Times, serif;
@@ -9,7 +9,7 @@ heading {
   font-size: 20px;
 }
 
-heading.main {
+.heading.main {
   color: #0000FF;
   margin-left: 20px;
   font-family: 'Times New Roman', Times, serif;
@@ -20,7 +20,7 @@ heading.main {
   font-size: 20px; 
 }
 
-title_box {
+.titlebox {
   color: #F24040;
   background: #964B00;
   width: 300px;
@@ -29,7 +29,7 @@ title_box {
   font-size: 30px;
 }
 
-title_box strong {
+.titlebox strong {
   color: #0f0;
   width: 300px;
   height: 50px;
@@ -61,12 +61,12 @@ a:link {
     color: red;
 }
 
-textBox {
+.textbox {
   color: #F24040;
   background: #FFFFFF;
 }
 
-square {
+.square {
   background: #097810;
   width: 50px;
   height: 50px;
